@@ -1,6 +1,3 @@
-# VQCT
-Codebook Transfer with Part-of-Speech for Vector-Quantized Image Modeling
-
 # Codebook Transfer with Part-of-Speech for Vector-Quantized Image Modeling
 This repository contains the code for the paper:
 <br>
